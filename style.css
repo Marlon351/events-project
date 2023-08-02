@@ -28,6 +28,10 @@ button {
     background-color: white;
 }
 
+#toggle-display{
+    background-color: white;
+}
+
 div {
     width: 500px;
     height: 500px;
